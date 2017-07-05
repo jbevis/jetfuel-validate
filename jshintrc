@@ -1,17 +1,13 @@
 {
   "node": true,
+
   "asi" : true,
   "curly": false,
-  "devel": true,
-  "esnext": true,
-  "globals": {
-    "fetch": false
-    },
-  "jquery": true,
-  "latedef": true,
-  "mocha": true,
+  "esversion": 6,
+  "latedef": false,
   "quotmark": true,
   "undef": true,
   "unused": false,
-  "trailing": true
-}
+  "trailing": true,
+  "-W117": true
+} 
