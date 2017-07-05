@@ -1,0 +1,23 @@
+{
+  "name": "jetfuel-validate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jbevis/jetfuel-validate.git"
+  },
+  "author": "Jack Bevis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbevis/jetfuel-validate/issues"
+  },
+  "homepage": "https://github.com/jbevis/jetfuel-validate#readme",
+  "dependencies": {
+    "git-validate": "^2.2.2"
+  }
+}
